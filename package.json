@@ -1,0 +1,23 @@
+{
+  "name": "amelson-group",
+  "version": "1.0.0",
+  "description": "Group of helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amelnud/amelson-group.git"
+  },
+  "dependencies": {
+    "guru-cryp": "1.0.0",
+    "minti_fulkerson": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amelnud/amelson-group/issues"
+  },
+  "homepage": "https://github.com/amelnud/amelson-group#readme"
+}
